@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Página Inicial
+title: Matemática Discreta
 nav_order: 1
 ---
 # Matemática Discreta - 2º Semestre de 2026
