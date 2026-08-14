@@ -4,26 +4,18 @@ title: Página Inicial
 nav_order: 1
 ---
 
-(Aqui para baixo continua o texto que você já tinha escrito antes...)
-
-# Matemática Discreta - 1º Semestre de 2026
+# Matemática Discreta - 2º Semestre de 2026
 **Professor:** Bruno Hott ([brhott@ufop.edu.br](mailto:brhott@ufop.edu.br), sala A310)
 
 __Novidades__
 
-* **01/06** Aula do dia 01/06 cancelada. Utilizem este tempo para terminarem a lista 5.
-* **07/05** Aulas dos dias 11/05 e 13/05 canceladas.
-* **28/04** Aula do dia 29/04 cancelada. Utilizem este tempo para terminarem a lista 4.
-* **16/04** Aula do dia 20/04 cancelada. Utilizem este tempo para terminarem a lista 2.
 
 __Horário de aulas__
-* **T21:** seg/qua 13h30-15h10; sala C204
-* **T22:** seg/qua 20h45-22h25; sala D203
-* **T23:** seg/qua 17h10-18h50; sala D303
 
-**Plano de ensino:** [[pdf]](https://brhott.wordpress.com/wp-content/uploads/2026/03/csi011_matematica-discreta_brhott.pdf)\
-**Apresentação do curso:** [[pdf]](https://brhott.wordpress.com/wp-content/uploads/2026/03/a00_hello.pdf)  
-**Monitoria:** [[horários]](https://docs.google.com/spreadsheets/d/1LwrZzIC8RmStjaUjSsJC1pMLWK0B7s_9DES4SNcvCqM)
+
+**Plano de ensino:** [[pdf]](#)\
+**Apresentação do curso:** [[pdf]](#)  
+**Monitoria:** (?)
 
 ## Tópicos
 
