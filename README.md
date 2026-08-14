@@ -1,3 +1,8 @@
+---
+layout: default
+title: Página Inicial
+nav_order: 1
+---
 # Matemática Discreta - 2º Semestre de 2026
 **Professor:** Bruno Hott ([brhott@ufop.edu.br](mailto:brhott@ufop.edu.br), sala A310)
 
